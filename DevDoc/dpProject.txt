@@ -1,0 +1,10 @@
+
+工程中用到的模式：
+
+   client side:
+               messages实现 composite
+               ssl实现 factory method
+
+   server side:
+	       ssl实现 singleton
+	       messages解析 build
